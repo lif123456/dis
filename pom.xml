@@ -55,6 +55,7 @@
     </dependencyManagement>
 
     <build>
+			<defaultGoal>compile</defaultGoal>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
@@ -62,6 +63,6 @@
             </plugin>
         </plugins>
     </build>
-	<defaultGoal>compile</defaultGoal>
+
 
 </project>
