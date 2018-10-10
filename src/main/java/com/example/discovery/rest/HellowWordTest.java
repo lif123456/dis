@@ -9,7 +9,7 @@ public class HellowWordTest {
 
     @RequestMapping("hello")
     public String hello(){
-        return  "you are pig222";
+        return  "yaozuo are pig222";
     }
 
 }
